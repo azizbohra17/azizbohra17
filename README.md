@@ -9,11 +9,10 @@ In my academic journey, I have made notable contributions to the field. I devise
 ## Project Highlights
 I am also actively involved in developing projects that showcase my skills and knowledge. Some notable projects include:
 
-Food Waste Management: Developed a solution using Machine Learning techniques to address the issue of food waste.
+**Food Waste Management** : Developed a solution using Machine Learning techniques to address the issue of food waste.
 Predicting Queue Wait Time at Hospitals: Leveraged data and Machine Learning algorithms to predict queue wait times at hospitals, optimizing patient experiences.
-Women Safety: Built a system utilizing Machine Learning and its libraries to enhance women's safety.
-Leadership and Technical Roles
-During my academic journey, I held leadership positions and contributed to the technical community. I was the Founder of the Developer Student Club at KJSIEIT, where I organized workshops on Data Science, Web Scraping & Automation using Python, and other related topics. Additionally, I served as the Chief Technical Officer of IETE-KJSIEIT in 2021, gaining valuable skills in leadership, public speaking, marketing, and event organization.
+
+**Women Safety** : Built a system utilizing Machine Learning and its libraries to enhance women's safety.
 
 ## Personal Interests
 Outside the realm of data, I have a diverse set of interests. I am a big enthusiast of soccer and Formula 1, following the excitement of these sports. Furthermore, I enjoy immersing myself in fictional and mystery novels, broadening my horizons and feeding my curiosity.
