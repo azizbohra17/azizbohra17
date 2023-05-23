@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aziz Bohra</h1>
-<h3 align="center">Data Analyst</h3>
+<h1 align="left">Hi 👋, I'm Aziz Bohra</h1>
+<h3 align="left">Data Analyst</h3>
 
 - I have developed projects: **Food Waste Management, Women Safety and COVID-19 Detection through Deep Feature Extraction**
 
