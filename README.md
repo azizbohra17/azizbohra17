@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects which aligns with **Financial Analysis, Big Data Engineering or Data Analysis**
 
 - 📫 How to reach me: [Outlook](mailto:azbohra@iu.edu")
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/154khFKGUp7gA0xPkSbTZwl7IusqMq4QG/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/15LK_nMT7hJEA8TRYvU2CSURauCwOSaGw/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
