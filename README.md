@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Aziz Bohra</h1>
 <h3 align="left">Data Scientist 🧑‍💻 by Profession</h3>
 
-- 🔭 I have developed projects: **Wine Quality Prediction using PySpark, Home Credit Default Risk (Kaggle Competition), Driver Drowsiness Detection and COVID-19 Detection through Deep Feature Extraction (Integration with AWS)**
+- 🔭 I have developed projects: **Online retail (Airflow End-to-End Pipeline),  Wine Quality Prediction using PySpark, Home Credit Default Risk (Kaggle Competition), Driver Drowsiness Detection and COVID-19 Detection through Deep Feature Extraction (Integration with AWS)**
 
 - 👯 I’m looking to collaborate on projects which aligns with **Financial Analysis, Big Data Engineering or Data Analysis**
 
 - 📫 How to reach me: [Outlook](mailto:azbohra@iu.edu")
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/15LK_nMT7hJEA8TRYvU2CSURauCwOSaGw/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1hH2jJm70rn7LkiDnYkh5edSdXm8Ur5dO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
