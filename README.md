@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aziz Bohra</h1>
 <h3 align="left">Data Engineer 🧑‍💻 by Profession</h3>
 
-- 🔭 I have developed projects: **Market Momentum (Real-Time Stock Data Streaming), Online retail (Airflow End-to-End Pipeline),  Wine Quality Prediction using PySpark, and COVID-19 Detection through Deep Feature Extraction (Integration with AWS)**
+- 🔭 I have developed projects: **CitySynapse: Real-Time Urban Data Integration, Market Momentum (Real-Time Stock Data Streaming), Online retail (Airflow End-to-End Pipeline),  Wine Quality Prediction using PySpark, and COVID-19 Detection through Deep Feature Extraction (Integration with AWS)**
 
 - 👯 I’m looking to collaborate on projects which aligns with **ETL Pipelining using Cloud Services, Real-Time Data Streaming, Big Data Engineering, Financial Analysis**
 
